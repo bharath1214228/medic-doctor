@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:16:26	107/107	---MCZ	403	error ('Forbidden')	text/html	date:Thu,%2027%20Oct%202022%2012:46:25%20GMT	https://demosites.io/robots.txt		(from )
+18:16:27	105012/105012	---MCZ	200	added ('OK')	text/html	date:Thu,%2027%20Oct%202022%2012:46:25%20GMT	https://demosites.io/doctors/	C:/Users/dell/Desktop/barath/medic7/demosites.io/doctors/index.html	(from )
